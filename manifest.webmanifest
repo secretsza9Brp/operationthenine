@@ -1,0 +1,17 @@
+{
+  "name": "THE NINE – ระบบบริหารจัดการนิติบุคคล",
+  "short_name": "THE NINE",
+  "description": "บันทึกและติดตามข้อมูลนิติบุคคลหลายโครงการ",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#064e3b",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
